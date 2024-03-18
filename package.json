@@ -10,7 +10,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tasnuvaleeya/yaml-to-html-converter.git"
+    "url": "git+https://github.com/tasnuvaleeya/swagger-yaml-to-html"
   },
   "keywords": [
     "yaml",
