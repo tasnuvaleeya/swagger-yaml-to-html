@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-
   "dependencies": {},
   "repository": {
     "type": "git",
@@ -24,7 +23,6 @@
     "url": "https://github.com/tasnuvaleeya/swagger-yaml-to-html/issues"
   },
   "homepage": "https://github.com/tasnuvaleeya/swagger-yaml-to-html#readme",
-
   "devDependencies": {
     "js-yaml": "^4.1.0"
   }
