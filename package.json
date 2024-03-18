@@ -6,8 +6,25 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tasnuva Zaman",
+
   "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasnuvaleeya/yaml-to-html-converter.git"
+  },
+  "keywords": [
+    "yaml",
+    "html",
+    "converter",
+    "swagger"
+  ],
+  "author": "Tasnuva Zaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tasnuvaleeya/yaml-to-html-converter/issues"
+  },
+  "homepage": "https://github.com/tasnuvaleeya/yaml-to-html-converter#readme",
+
   "devDependencies": {
     "js-yaml": "^4.1.0"
   }
