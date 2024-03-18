@@ -7,12 +7,17 @@ A Node.js package to convert YAML files to HTML using Swagger UI.
 You can install the package via npm:
 
 ```bash
-npm install yaml-to-html
+npm install swagger-yaml-to-html
 ```
 ## Usage
 
-Run the command from the terminal
 ```
-node script.js < <input_file>.yaml > <output_file>.html
-```
+const generateHtmlFromYaml = require('swagger-yaml-to-html');
 
+// Provide input YAML file path and output HTML file path
+const inputFilePath = 'path/to/input.yaml';
+const outputFilePath = 'path/to/output.html';
+
+// Convert YAML to HTML
+generateHtmlFromYaml(inputFilePath, outputFilePath);
+```

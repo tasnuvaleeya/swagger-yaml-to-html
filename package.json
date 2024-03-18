@@ -2,7 +2,7 @@
   "name": "swagger-yaml-to-html",
   "version": "1.0.0",
   "description": "Convert Swagger YAML to HTML using Swagger UI",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "start": "node index.js"
   },
@@ -21,9 +21,9 @@
   "author": "Tasnuva Zaman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tasnuvaleeya/yaml-to-html-converter/issues"
+    "url": "https://github.com/tasnuvaleeya/swagger-yaml-to-html/issues"
   },
-  "homepage": "https://github.com/tasnuvaleeya/yaml-to-html-converter#readme",
+  "homepage": "https://github.com/tasnuvaleeya/swagger-yaml-to-html#readme",
 
   "devDependencies": {
     "js-yaml": "^4.1.0"
