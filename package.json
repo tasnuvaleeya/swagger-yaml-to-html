@@ -1,6 +1,6 @@
 {
   "name": "swagger-yaml-to-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert Swagger YAML to HTML using Swagger UI",
   "main": "lib/index.js",
   "scripts": {
