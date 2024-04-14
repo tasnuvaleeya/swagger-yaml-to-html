@@ -13,6 +13,8 @@
   },
   "keywords": [
     "yaml",
+    "openapi-documentation",
+    "swagger-documentation-generator",
     "html",
     "converter",
     "swagger"
